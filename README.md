@@ -1,4 +1,4 @@
-# MET_CS777 Team 6 Term Paper
+# MET_CS777 Team 6 Term Project
 
 This repository contains all the necessary files and resources for the METCS777 Term Project at Boston University. The project focuses on developing a system for bike rebalancing optimization using data analytics and machine learning techniques.
 
