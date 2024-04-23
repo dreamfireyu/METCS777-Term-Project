@@ -22,16 +22,16 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 ## Authors
 
-- [Zhuoran Yu](https://github.com/dreamfireyu): 
-· Station data, traffic data cleaning and preparation.  
-· Part of Model training
-· Building a mathematical model to solve the vehicle scheduling problem.
-· Webpage coding
-· Github project creation and management 
+[Zhuoran Yu](https://github.com/dreamfireyu): 
+- Station data, traffic data cleaning and preparation.  
+- Part of Model training
+- Building a mathematical model to solve the vehicle scheduling problem.
+- Demo building
+- Github project creation and management 
 
-- [Hanlin Guo](https://github.com/KevinGuo0): Spark performance tuning.
-· Weather data collection and organization
-· Part of Model training
+[Hanlin Guo](https://github.com/KevinGuo0): 
+- Weather data collection and organization
+- Part of Model training
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
