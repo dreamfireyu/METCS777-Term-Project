@@ -23,15 +23,15 @@ Contributions to this project are welcome! If you find any issues or have sugges
 ## Authors
 
 [Zhuoran Yu](https://github.com/dreamfireyu): 
-- Station data, traffic data cleaning and preparation.  
-- Part of Model training
-- Building a mathematical model to solve the vehicle scheduling problem.
+- Station data, traffic data cleaning and preprocessing.  
+- RandomForest Regression training
+- Linear Programming Model Building
 - Demo building
-- Github project creation and management 
+- Github project management and documentation
 
 [Hanlin Guo](https://github.com/KevinGuo0): 
 - Weather data collection and organization
-- Part of Model training
+- Linear Regression, Neural network, Autoregressive Model training
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
